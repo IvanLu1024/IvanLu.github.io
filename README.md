@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+##欢迎来到IvanLu的主页
 
-You can use the [editor on GitHub](https://github.com/IvanLu1024/IvanLu1024.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```
+这个博客用于记录我平时的学习笔记和经验总结
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+让自己做到温故而知新
+```
+
 
 ### Markdown
 
